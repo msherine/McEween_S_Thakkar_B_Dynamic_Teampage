@@ -6,6 +6,8 @@ Interact! :notes: <br>
 Explore! :mag:<br>
 Have Fun! :v:<br>
 
+Google planning doc: https://docs.google.com/document/d/1XMDVFV1_dmq_gDUdsj1iS9W9e6aMrt-23yI5u3ElGuI/edit?usp=sharing
+
 ## Prerequisites
 
 * Most websites should work for this website.
